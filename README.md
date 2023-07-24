@@ -1,9 +1,8 @@
 # Theatre-Database
 
-This is the project for my Database course in which I implemented a system for theatre reseravations.
+This is the project for my Database course in which I implemented a system for theatre reservations.
 
 It consists of four phases:
-
 * Domain description 
 * Entity relationship model
 * Relational model
